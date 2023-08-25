@@ -16,7 +16,7 @@
     row-gap: 1em;
     width: 100vw;
     height: 100vh;
-    background-color: #e5e6ee;
+    background-color: #77f377;
     padding: 4em;
     overflow-x: hidden;
     overflow-y: auto;
@@ -57,7 +57,7 @@
     align-items: start;
     width: 25em;
     height: 60em;
-    background-color: #e5e6ee;
+    background-color: #5bee5b;
     padding:2em 1em;
     gap: 1em;
     font-weight: bold;
@@ -70,7 +70,7 @@
     align-items: start;
     width: 15em;
     height: 60em;
-    background-color: #2c323d;
+    background-color: #21d11b;
     padding:2em 1em;
     gap: 1em;
   }
